@@ -5,19 +5,19 @@
 }
 
 .mv{
-    width: 1250px;
-    height: 4820px;
+    width: 100%;
+    height: 7450px;
     display: flex;
-    background: url("LP.png");
+    background: url("LP.jpg");
     background-size: cover;
 }
 
 .main-button{
     position: absolute;
-    left: 696px;
-    top: 284px;
-    height: 136px;
-    width: 426px;
+    left: 315px;
+    top: 897px;
+    height: 76px;
+    width: 638px;
 /*    background-color: rgb(6, 199, 85);*/
     color: white;
     font-size: 20px;
@@ -29,10 +29,10 @@
 
 .button2{
     position: absolute;
-    left: 142px;
-    top: 1694px;
-    height: 115px;
-    width: 986px;
+    left: 315px;
+    top: 2433px;
+    height: 75px;
+    width: 637px;
 /*    background-color: rgb(6, 199, 85);*/
     color: white;
     font-size: 20px;
@@ -44,10 +44,10 @@
 
 .button3{
     position: absolute;
-    left: 252px;
-    top: 3384px;
-    height: 144px;
-    width: 780px;
+    left: 314px;
+    top: 4468px;
+    height: 75px;
+    width: 637px;
 /*    background-color: rgb(6, 199, 85);*/
     color: white;
     font-size: 20px;
@@ -59,10 +59,10 @@
 
 .button4{
     position: absolute;
-    left: 167px;
-    top: 4340px;
-    height: 259px;
-    width: 984px;
+    left: 313px;
+    top: 7152px;
+    height: 75px;
+    width: 638px;
 /*    background-color: rgb(6, 199, 85);*/
     color: white;
     font-size: 20px;
@@ -75,18 +75,18 @@
 @media (max-width: 896px) {
     .mv{
         width: 100%;
-        height: 2350px;
+        height: 3600px;
         display: flex;
-        background: url("LP.png");
+        background: url("LP.jpg");
         background-size: cover;
     }
     
     .main-button{
         position: absolute;
-        left: 340px;
-        top: 150px;
-        height: 67px;
-        width: 207px;
+        left: 155px;
+        top: 444px;
+        height: 37px;
+        width: 310px;
     /*    background-color: rgb(6, 199, 85);*/
         color: white;
         font-size: 20px;
@@ -98,10 +98,10 @@
     
     .button2{
         position: absolute;
-        left: 73px;
-        top: 835px;
-        height: 55px;
-        width: 477px;
+        left: 156px;
+        top: 1190px;
+        height: 35px;
+        width: 309px;
     /*    background-color: rgb(6, 199, 85);*/
         color: white;
         font-size: 20px;
@@ -113,10 +113,10 @@
     
     .button3{
         position: absolute;
-        left: 125px;
-        top: 1654px;
-        height: 70px;
-        width: 378px;
+        left: 155px;
+        top: 2178px;
+        height: 35px;
+        width: 310px;
     /*    background-color: rgb(6, 199, 85);*/
         color: white;
         font-size: 20px;
@@ -128,10 +128,10 @@
     
     .button4{
         position: absolute;
-        left: 85px;
-        top: 2117px;
-        height: 125px;
-        width: 476px;
+        left: 155px;
+        top: 3480px;
+        height: 37px;
+        width: 310px;
     /*    background-color: rgb(6, 199, 85);*/
         color: white;
         font-size: 20px;
