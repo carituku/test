@@ -185,7 +185,7 @@
     .button3{
         position: absolute;
         left: 243px;
-        top: 5488px;
+        top: 3428px;
         height: 56px;
         width: 490px;
         color: white;
@@ -199,10 +199,10 @@
         
     .button4{
         position: absolute;
-        left: 122px;
-        top: 2692px;
-        height: 28px;
-        width: 239px;
+        left: 243px;
+        top: 5488px;
+        height: 56px;
+        width: 490px;
         color: white;
         font-size: 20px;
         display: flex;
