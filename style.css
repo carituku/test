@@ -1,9 +1,4 @@
 @charset "UTF-8";
-.test{
-    width: 605px;
-    height: 10px;
-}
-
 .mv{
     width: 100%;
     height: 7450px;
@@ -72,7 +67,7 @@
     text-decoration: none;
 }
 
-@media (max-width: 896px) {
+@media (max-width: 1200px) {
     .mv{
         width: 80%;
         height: 2900px;
@@ -81,14 +76,15 @@
         background-size: cover;
         margin-left: auto;
         margin-right: auto;
+        border: 1px solid #000;
     }
     
     .main-button{
         position: absolute;
-        left: 187px;
-        top: 360px;
-        height: 28px;
-        width: 247px;
+        left: 30%;
+        top: 62.5%;
+        height: 5%;
+        width: 39.6%;
     /*    background-color: rgb(6, 199, 85);*/
         color: white;
         font-size: 20px;
@@ -101,10 +97,10 @@
     
     .button2{
         position: absolute;
-        left: 122px;
-        top: 922px;
-        height: 28px;
-        width: 239px;
+        left: 30%;
+        top: 168.5%;
+        height: 5%;
+        width: 39.6%;
     /*    background-color: rgb(6, 199, 85);*/
         color: white;
         font-size: 20px;
@@ -117,10 +113,10 @@
     
     .button3{
         position: absolute;
-        left: 122px;
-        top: 1686px;
-        height: 28px;
-        width: 239px;
+        left: 30%;
+        top: 309.5%;
+        height: 5%;
+        width: 39.6%;
     /*    background-color: rgb(6, 199, 85);*/
         color: white;
         font-size: 20px;
@@ -133,10 +129,10 @@
     
     .button4{
         position: absolute;
-        left: 122px;
-        top: 2692px;
-        height: 28px;
-        width: 239px;
+        left: 30%;
+        top: 495.5%;
+        height: 5%;
+        width: 39.6%;
     /*    background-color: rgb(6, 199, 85);*/
         color: white;
         font-size: 20px;
@@ -149,11 +145,14 @@
 
     @media (max-width: 520px) {
         .mv{
-            width: 70%;
-            height: 1000px;
+            width: 100%;
+            height: 2800px;
             display: flex;
             background: url("LP.jpg");
             background-size: cover;
+            border: 1px solid #000;
+            margin-left: auto;
+            margin-right: auto;
         }
         
         .main-button{
