@@ -1,75 +1,76 @@
-@charset "UTF-8";
-.mv{
-    width: 1200px;
-    height: 7450px;
-    display: flex;
-    background: url("LP.jpg");
-    background-size: cover;
-    margin-left: auto;
-    margin-right: auto;
-}
+@media only screen and (min-width: 1201px) {
+    .mv{
+        width: 1200px;
+        height: 7450px;
+        display: flex;
+        background: url("LP.jpg");
+        background-size: cover;
+        margin-left: auto;
+        margin-right: auto;
+    }
 
-.main-button{
-    position: absolute;
-    left: 315px;
-    top: 897px;
-    height: 76px;
-    width: 638px;
+    .main-button{
+        position: absolute;
+        left: 315px;
+        top: 897px;
+        height: 76px;
+        width: 638px;
 /*    background-color: rgb(6, 199, 85);*/
-    color: white;
-    font-size: 20px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    text-decoration: none;
-}
+        color: white;
+        font-size: 20px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        text-decoration: none;
+    }
 
-.button2{
-    position: absolute;
-    left: 315px;
-    top: 2433px;
-    height: 75px;
-    width: 637px;
+    .button2{
+        position: absolute;
+        left: 315px;
+        top: 2433px;
+        height: 75px;
+        width: 637px;
 /*    background-color: rgb(6, 199, 85);*/
-    color: white;
-    font-size: 20px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    text-decoration: none;
-}
+        color: white;
+        font-size: 20px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        text-decoration: none;
+    }
 
-.button3{
-    position: absolute;
-    left: 314px;
-    top: 4468px;
-    height: 75px;
-    width: 637px;
+    .button3{
+        position: absolute;
+        left: 314px;
+        top: 4468px;
+        height: 75px;
+        width: 637px;
 /*    background-color: rgb(6, 199, 85);*/
-    color: white;
-    font-size: 20px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    text-decoration: none;
-}
+        color: white;
+        font-size: 20px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        text-decoration: none;
+    }
 
-.button4{
-    position: absolute;
-    left: 313px;
-    top: 7152px;
-    height: 75px;
-    width: 638px;
+    .button4{
+        position: absolute;
+        left: 313px;
+        top: 7152px;
+        height: 75px;
+        width: 638px;
 /*    background-color: rgb(6, 199, 85);*/
-    color: white;
-    font-size: 20px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    text-decoration: none;
+        color: white;
+        font-size: 20px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        text-decoration: none;
+    }
 }
 
-@media (max-width: 1200px) {
+@media only screen and (max-width: 1200px) and (min-width: 521px) {
     .mv{
         width: 800px;
         height: 4800px;
@@ -78,15 +79,14 @@
         background-size: cover;
         margin-left: auto;
         margin-right: auto;
-        border: 1px solid #000;
     }
     
     .main-button{
         position: absolute;
-        left: 25%;
-        top: 49%;
-        height: 4%;
-        width: 50%;
+        left: 288px;
+        top: 570px;
+        height: 50px;
+        width: 405px;
     /*    background-color: rgb(6, 199, 85);*/
         color: white;
         font-size: 20px;
@@ -99,10 +99,10 @@
     
     .button2{
         position: absolute;
-        left: 25%;
-        top: 133.5%;
-        height: 4%;
-        width: 50%;
+        left: 288px;
+        top: 1556px;
+        height: 50px;
+        width: 405px;
     /*    background-color: rgb(6, 199, 85);*/
         color: white;
         font-size: 20px;
@@ -115,10 +115,10 @@
     
     .button3{
         position: absolute;
-        left: 25%;
-        top: 245%;
-        height: 4%;
-        width: 50%;
+        left: 288px;
+        top: 2860px;
+        height: 50px;
+        width: 405px;
     /*    background-color: rgb(6, 199, 85);*/
         color: white;
         font-size: 20px;
@@ -131,10 +131,10 @@
     
     .button4{
         position: absolute;
-        left: 25%;
-        top: 392.5%;
-        height: 4%;
-        width: 50%;
+        left: 288px;
+        top: 4580px;
+        height: 50px;
+        width: 405px;
     /*    background-color: rgb(6, 199, 85);*/
         color: white;
         font-size: 20px;
@@ -146,20 +146,20 @@
     }
 }
 
-@media (max-width: 520px) {
+@media only screen and (max-width: 520px) {
     .mv{
         width: 520px;
         height: 400px;
         display: flex;
         background: url("LP.jpg");
         background-size: cover;
-        border: 1px solid #000;
+        border: 1px solid orange;
     }
         
     .main-button{
         position: absolute;
         left: 25%;
-        top: 100%;
+        top: 100px;
         height: 4%;
         width: 50%;
         /*    background-color: rgb(6, 199, 85);*/
