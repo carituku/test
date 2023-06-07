@@ -149,8 +149,8 @@
 
     @media (max-width: 480px) {
         .mv{
-            width: 10px;
-            height: 100px;
+            width: 70%;
+            height: 1000px;
             display: flex;
             background: url("LP.jpg");
             background-size: cover;
