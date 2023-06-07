@@ -21,7 +21,6 @@
         justify-content: center;
         align-items: center;
         text-decoration: none;
-        border: 1px solid #000;
     }
 
     .button2{
@@ -36,7 +35,6 @@
         justify-content: center;
         align-items: center;
         text-decoration: none;
-        border: 1px solid #000;
     }
 
     .button3{
@@ -51,7 +49,6 @@
         justify-content: center;
         align-items: center;
         text-decoration: none;
-        border: 1px solid #000;
     }
 
     .button4{
@@ -66,7 +63,6 @@
         justify-content: center;
         align-items: center;
         text-decoration: none;
-        border: 1px solid #000;
     }
 }
 
@@ -93,7 +89,6 @@
         justify-content: center;
         align-items: center;
         text-decoration: none;
-        border: 1px solid #000;
     }
     
     .button2{
@@ -108,7 +103,6 @@
         justify-content: center;
         align-items: center;
         text-decoration: none;
-        border: 1px solid #000;
     }
     
     .button3{
@@ -123,7 +117,6 @@
         justify-content: center;
         align-items: center;
         text-decoration: none;
-        border: 1px solid #000;
     }
     
     .button4{
@@ -138,7 +131,6 @@
         justify-content: center;
         align-items: center;
         text-decoration: none;
-        border: 1px solid #000;
     }
 }
 
@@ -149,7 +141,6 @@
         display: flex;
         background: url("LP.jpg");
         background-size: cover;
-        border: 1px solid orange;
     }
         
     .main-button{
@@ -164,7 +155,6 @@
         justify-content: center;
         align-items: center;
         text-decoration: none;
-        border: 1px solid #000;
     }
         
     .button2{
@@ -179,7 +169,6 @@
         justify-content: center;
         align-items: center;
         text-decoration: none;
-        border: 1px solid #000;
     }
         
     .button3{
@@ -194,7 +183,6 @@
         justify-content: center;
         align-items: center;
         text-decoration: none;
-        border: 1px solid #000;
     }
         
     .button4{
@@ -209,6 +197,5 @@
         justify-content: center;
         align-items: center;
         text-decoration: none;
-        border: 1px solid #000;
     }
 }
