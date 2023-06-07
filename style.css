@@ -147,7 +147,7 @@
         border: 1px solid #000;
     }
 
-    @media (max-width: 480px) {
+    @media (max-width: 520px) {
         .mv{
             width: 70%;
             height: 1000px;
